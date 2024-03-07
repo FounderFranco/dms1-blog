@@ -4,44 +4,37 @@ published_at: 2022-11-04T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
 disable_htal_sanitization: true
 ---
+
+The initial day of Digital Media Studio, involved grouping and deciphering a list of ten items through intriguing, riddle-like descriptions. After an engaging one-hour exploration, my team adeptly uncovered all specified items. This exercise not only sharpened our problem-solving skills but also highlighted the value of teamwork in this academic field. The following images below are items my team was able to find:
+
 An image of the "Wide machine, dispensing beverages from a far away land".
 ![First Image](/w01s1/IMG_7617.jpg)
 
 An image of the "A wide strung above, bluging under the weight of its flying paper cargo".
 ![First Image](/w01s1/IMG_7620.jpg)
 
-An image of the "".
+An image of the "A book containing Digital Media wisdom, found amongst many".
 ![First Image](/w01s1/IMG_7621.jpg)
 
-An image of the "".
+An image of the "A study space fit for a Sith Lord".
 ![First Image](/w01s1/IMG_7622.jpg)
 
-An image of the "".
+An image of the "The disembodied hands of a great ape".
 ![First Image](/w01s1/IMG_7623.jpg)
 
-An image of the "".
-![First Image](/w01s1/IMG_7624.jpg)
-
-An image of the "".
+An image of the "A golden globe atop a tower of eights".
 ![First Image](/w01s1/IMG_7625.jpg)
 
-An image of the "".
+An image of the "A door for the condemmned".
 ![First Image](/w01s1/IMG_7626.jpg)
 
-An image of the "".
-![First Image](/w01s1/IMG_7627.jpg)
-
-An image of the "".
-![First Image](/w01s1/IMG_7628.jpg)
-
-
-An image of the "".
+An image of the "An explosive cup of coffee".
 ![First Image](/w01s1/IMG_7629.jpg)
 
-An image of the "".
+An image of the "A basement-dwelling Black Box, bigger than you might think".
 ![First Image](/w01s1/IMG_7630.jpg)
 
-An image of the "".
+An image of the "A curtain of roots, delivered by a winged visitor".
 ![First Image](/w01s1/IMG_7631.jpg)
 
 Hello, world!

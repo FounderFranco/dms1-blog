@@ -2,7 +2,7 @@
 title: This is my first blog post!
 published_at: 03/07/2024
 snippet: This is an excerpt of my first blog post.
-disable_htal_sanitization: true
+disable_html_sanitization: true
 ---
 
 The initial day of Digital Media Studio involved grouping and deciphering a list of ten items through intriguing, riddle-like descriptions. After an engaging one-hour exploration through an outlined area of RMIT, my team adeptly uncovered all specified items. This exercise not only sharpened our problem-solving skills but also highlighted the value of teamwork in this academic field. The following images below are items my team was able to find:

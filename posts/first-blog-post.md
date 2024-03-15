@@ -1,7 +1,7 @@
 ---
-title: This is my first blog post!
+title: Portfolio
 published_at: 03/07/2024
-snippet: This is an excerpt of my first blog post.
+snippet: An organized portfolio with all my work and achievements.
 disable_html_sanitization: true
 ---
 
@@ -46,6 +46,8 @@ An image of the "A curtain of roots, delivered by a winged visitor".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w47hzQTeD7c?si=_YbFxSWZRltGm5hb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Storyboard of "Road mayhem choreographed by Jacques Tati".
+![First Image](/w01s1/Storyboard_hommework.png)
 
 
 Hello, world!

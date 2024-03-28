@@ -54,6 +54,24 @@ Alone Edited:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZ69t6bN6uM?si=fUmqQFWfrlk4MJ7n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Beginning of my Self Portrait in Adobe Premiere Pro.
+![First Image](/w01s1/IMG_7632.png)
+
+Adding my pet dog.
+![First Image](/w01s1/IMG_7633.png)
+
+Zoom in of my little sister drawing.
+![First Image](/w01s1/IMG_7634.png)
+
+Cut of me on the piano.
+![First Image](/w01s1/IMG_7635.png)
+
+Extreme close up of texters on the table
+![First Image](/w01s1/IMG_7637.png)
+
+After recieving feedback from my fellow classmates and teacher, I was able to implement some changes that were suggested. Some of these changes included making the opening scenes snappier and not so lengthy, getting rid of the black screen and sound effect before the drawing and the piano playing began, and fading out the clip of the texters which then fades into the hand drawing.
+![First Image](/w01s1/IMG_7636.png)
+
 Hello, world!
 
 # This is h1

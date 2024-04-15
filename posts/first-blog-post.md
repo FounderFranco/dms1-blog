@@ -79,6 +79,9 @@ After recieving feedback from my fellow classmates and teacher, I was able to im
 Black Square Homework
 ![First Image](/w01s1/Untitled.png)
 
+Icon Sketches
+![First Image](/w01s1/icon_sketches.png)
+
 
 # This is h1
 

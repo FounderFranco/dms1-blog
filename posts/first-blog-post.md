@@ -76,11 +76,14 @@ After recieving feedback from my fellow classmates and teacher, I was able to im
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xTwai4zLvY?si=GnKSoXqdGb31dzd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For the black square homework tasks I utilized various short cuts techniques, such Ctrl+C and Ctrl+V, to create patterns that fell under the themes of order, increase, bold, congested, tension and playful. As I attempted to create these patterns I thoroughly thought about how I could arange the black squares to fit the themes, once complete, I chose one of my favourite designs from each category.
+For the black square homework tasks I utilized various short cuts techniques, such Ctrl+C and Ctrl+V, to create patterns that fell under the themes of order, increase, bold, congested, tension and playful. As I attempted to create these patterns I thoroughly thought about how I could arange the black squares to fit the themes, once complete, I chose one of my favourite designs from each category
 ![First Image](/w01s1/Untitled.png)
 
 Icon Sketches
 ![First Image](/w01s1/icon_sketches.png)
+
+Assignment 2 Icons
+https://founderfran-at2-72.deno.dev/
 
 
 # This is h1

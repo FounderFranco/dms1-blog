@@ -82,6 +82,11 @@ For the black square homework tasks I utilized various short cuts techniques, su
 Icon Sketches
 ![First Image](/w01s1/icon_sketches.png)
 
+Assigment 2 Discussion
+Designing a cohesive set of icons for a simple kids' game has been a great way to explore design thinking and creativity. I chose vibrant colors for my icons to make them appealing and easily recognizable, especially for young users. By adding black borders that turn white on hover, I wanted to create an interactive element that enhances the user experience, making it intuitive and visually engaging. This approach demonstrates my growing understanding of user interface principles and accessibility.
+
+I also recorded distinct sounds for user interactions to add depth to my design project. Using real-world sounds, like my AirPods Pro hitting a metal table, adds a unique and personal touch, reinforcing the interactive nature of the game. Exporting the recordings and integrating them into my project has been a great way to showcase my technical skills and creativity in multimedia design. Through this experience, I'm honing my ability to create engaging user experiences and building a diverse skill set as a creative practitioner.
+
 Assignment 2 Icons
 https://founderfran-at2-72.deno.dev/
 

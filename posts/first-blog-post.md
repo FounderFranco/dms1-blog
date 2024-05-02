@@ -93,6 +93,13 @@ Assignment 2 Icons
 https://founderfran-at2-72.deno.dev/
 
 
+In class we learnt how to intall Unity, and utilize it to create the solar system through the applications of spheres and textures.
+![First Image](/w01s1/Sun1.png)
+
+After finishing the solar system, I decided to chnage the texture of the sun to a higher resolution image. In addition, I added a pointlight and directed it to the sun, to give it that shiny effect.
+![First Image](/w01s1/Sun2.png)
+
+
 # This is h1
 
 ## This is h2

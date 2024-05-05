@@ -100,6 +100,13 @@ After finishing the solar system, I decided to chnage the texture of the sun to 
 ![First Image](/w01s1/Sun2.png)
 
 
+During clas time we learnt to create a playable first person character in Unity, as well as forming terrain
+![First Image](/w01s1/Character.png)
+
+![First Image](/w01s1/Terrain.png)
+
+
+
 # This is h1
 
 ## This is h2

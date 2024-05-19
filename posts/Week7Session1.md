@@ -12,6 +12,14 @@ The objective of this project is to illustrate the concept of "change." Specific
 
 
 A brainstorm and development of some ideas for my digital environment:
-![First Image](/w01s1/Character.png)
 
 ![First Image](/w01s1/Terrain.png)
+
+
+
+
+In class we learnt how to intall Unity, and utilize it to create the solar system through the applications of spheres and textures.
+![First Image](/w01s1/Sun1.png)
+
+After finishing the solar system, I decided to chnage the texture of the sun to a higher resolution image. In addition, I added a pointlight and directed it to the sun, to give it that shiny effect.
+![First Image](/w01s1/Sun2.png)

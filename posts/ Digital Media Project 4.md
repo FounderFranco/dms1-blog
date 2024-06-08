@@ -18,7 +18,12 @@ In the beginning I decided to make the colour pallet based on shades, as you can
 I realized that the front cover of the website must be eye catching, to capture the audiences attention, and to give off good first impression.
 ![First Image](/w01s1/Line2.png)
 
-For this reason, I went into photoshop, took various screenshots of the three assignments we worked on, and put them all into a curved box, which really captured the essence of my creativity, as well as foreshadowing what the website will be about.
+For this reason, I went into photoshop, took various screenshots of the three assignments I worked on, and put them all into a curved box, which really captured the essence of my creativity, as well as foreshadowing what the website will be about.
 ![First Image](/w01s1/Line3.png)
 
+I then decided to change the boxes to a lighter, more earthy cream and brown colour.
 ![First Image](/w01s1/Line4.png)
+
+
+I finally decided to change the entire colour theme, and made everything a brown, earthy colour pallet. As seen, I made it so the top of the website is a white background that then fades to a darker brown as you scroll down to the final assignments. Similar to the ocean, where it gets darker the deeper you go, the idea of the changing background from light to dark, was to resemble going "deeper" in time as you go to the final assignment.
+![First Image](/w01s1/Line5.png)
